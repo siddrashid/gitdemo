@@ -1,2 +1,2 @@
 # gitdemo
-Git Basics
+Git Basic Commands & Initialization
